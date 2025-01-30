@@ -9,10 +9,10 @@
 Bana ulaşmak için aşağıdaki kanalları kullanabilirsiniz:
 
 <p aligin="left">
-<a href="https://www.linkedin.com/in/enes-dolgun-b7094b296/" target="_blank">
+<a href="https://www.linkedin.com/in/enes-dolgun-b7094b296/" target="_blank" text-decoration: none; outline: none;>
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/enesdolgun33" target="_blank">
+<a href="https://github.com/enesdolgun33" target="_blank" text-decoration: none; outline: none;>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.instagram.com/enesdolgun10" target="_blank">
