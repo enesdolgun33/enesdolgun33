@@ -10,7 +10,8 @@
 
 ### Popüler Depolar
 - [Proje Adı](https://github.com/enesdolgun33/proje-adi): Proje açıklaması.
-  
-- Feel free to check out my repositories and contribute if you find something interesting. I'm always open to collaborating on new and exciting projects!
 
-- Thanks for visiting my profile! Have a great day! 😊
+
+Feel free to check out my repositories and contribute if you find something interesting. I'm always open to collaborating on new and exciting projects!
+
+Thanks for visiting my profile! Have a great day! 😊
