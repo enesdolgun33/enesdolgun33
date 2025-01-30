@@ -1,4 +1,4 @@
-## <img src="https://em-content.zobj.net/source/apple/391/laptop_1f4bb.png"> Hi, I'm Enes Dolgun <a href="https://github.com/enesdolgun33"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20"></a>
+## <a href=""><img src="https://em-content.zobj.net/source/apple/391/laptop_1f4bb.png"></a> Hi, I'm Enes Dolgun <a href="https://github.com/enesdolgun33"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oktygnc&label=Profile%20views&color=0e75b6&style=flat" alt="oktygnc" /> </p>
 
