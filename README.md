@@ -13,9 +13,9 @@ Bana ulaşmak için aşağıdaki kanalları kullanabilirsiniz:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/enesdolgun10)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:enesdolgun33@gmail.com)
 
-- **LinkedIn**: [linkedin.com/in/enesdolgun](https://www.linkedin.com/in/enes-dolgun-b7094b296/)
-- **GitHub**: [github.com/enesdolgun33](https://github.com/enesdolgun33)
-- **Instagram**: [instagram.com/enesdolgun10](https://www.instagram.com/enesdolgun10)
+- **LinkedIn**: [Enes Dolgun](https://www.linkedin.com/in/enes-dolgun-b7094b296/)
+- **GitHub**: [enesdolgun33](https://github.com/enesdolgun33)
+- **Instagram**: [enesdolgun10](https://www.instagram.com/enesdolgun10)
 - **E-posta**: [enesdolgun33@gmail.com](mailto:enesdolgun33@gmail.com)
 
 ### GitHub İstatistikleri
