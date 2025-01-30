@@ -8,6 +8,7 @@
 
 Bana ulaşmak için aşağıdaki kanalları kullanabilirsiniz:
 
+<p aligin="left">
 <a href="https://www.linkedin.com/in/enes-dolgun-b7094b296/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -20,6 +21,7 @@ Bana ulaşmak için aşağıdaki kanalları kullanabilirsiniz:
 <a href="mailto:enesdolgun33@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+</p>
 
 ### GitHub İstatistikleri
 ![Enes'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=enesdolgun33&show_icons=true&theme=radical)
