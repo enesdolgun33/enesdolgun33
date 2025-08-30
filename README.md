@@ -5,8 +5,6 @@
 I'm Enes, a developer who enjoys **problem solving**, **writing clean code**, and **prioritising user experience** in the software development process.  
 I focus on continuous learning, self-improvement, and adding value through my projects.
 
----
-
 🔗 &nbsp;**Connect with me :**
 
 <p align="left">
@@ -14,6 +12,7 @@ I focus on continuous learning, self-improvement, and adding value through my pr
 <a href="mailto:enesdolgun33@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="enesdolgun" height="40" width="40" /></a>
 <a href="https://instagram.com/enesdolgun10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesdolgun" height="40" width="40" /></a>
 </p>
+
 ---
 
 ## ⚡ Technologies I Know
