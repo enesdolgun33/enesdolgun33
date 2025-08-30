@@ -8,6 +8,32 @@
 <a href="https://instagram.com/enesdolgun10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesdolgun" height="40" width="40" /></a>
 </p>
 
-Feel free to check out my repositories and contribute if you find something interesting. I'm always open to collaborating on new and exciting projects!
+---
 
-Thanks for visiting my profile! Have a great day! 😊
+## 👨‍💻 Hakkımda
+
+Ben Enes, yazılım geliştirme sürecinde **problem çözmeyi**, **temiz kod yazmayı** ve **kullanıcı deneyimini ön planda tutmayı** seven bir geliştiriciyim.  
+Sürekli öğrenmeye, kendimi geliştirmeye ve projelerimle değer katmaya odaklanıyorum.
+
+---
+
+## ⚡ Bildiğim Teknolojiler
+
+- **Programlama Dilleri:** C, C++, Java (OOP), PHP, JavaScript, TypeScript (temel)
+- **Veritabanı:** SQL (MSSQL ağırlıklı)
+- **Web Teknolojileri:** HTML5, CSS3, React
+- **Araçlar & İş Akışları:** Git, GitHub, VS Code
+- **Diğer:** Responsive Tasarım, Temiz Kod İlkeleri
+
+---
+
+## 🎯 Hedefim
+
+Yeni teknolojileri öğrenmeye, yazılım ekosistemine katkı sağlamaya ve  
+**kullanıcı odaklı, sürdürülebilir projeler** üretmeye devam etmek.
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesdolgun33&layout=compact&theme=radical)
