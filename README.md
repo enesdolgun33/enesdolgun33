@@ -5,6 +5,11 @@
 I'm Enes, a developer who enjoys **problem solving**, **writing clean code**, and **prioritising user experience** in the software development process.  
 I focus on continuous learning, self-improvement, and adding value through my projects.
 
+---
+
+I am currently focusing on React.
+I am working to improve my proficiency in React by developing projects and learning modern frontend development practices. My goal is to continuously improve myself through practical experience.
+
 🔗 &nbsp;**Connect with me :**
 
 <p align="left">
