@@ -7,8 +7,7 @@ I focus on continuous learning, self-improvement, and adding value through my pr
 
 ##
 
-I am currently focusing on React.
-I am working to improve my proficiency in React by developing projects and learning modern frontend development practices. My goal is to continuously improve myself through practical experience.
+I am currently focusing on Python. I am working to improve my proficiency in advanced Python by developing projects and learning modern programming practices. My goal is to continuously improve myself through practical experience.
 
 🔗 &nbsp;**Connect with me :**
 
