@@ -37,7 +37,3 @@ To continue learning new technologies, contributing to the software ecosystem, a
 producing **user-focused, sustainable projects**.
 
 ---
-
-## 📊 My GitHub Statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesdolgun33&layout=compact&theme=radical)
