@@ -1,4 +1,6 @@
 ## <h1><a href="https://github.com/enesdolgun33"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>Hi, I'm Enes Dolgun <a href="https://github.com/enesdolgun33"><img src="https://em-content.zobj.net/source/apple/391/laptop_1f4bb.png" width="25" height="25"></a> </h1>
+![Enes Dolgun](https://r.resimlink.com/Gdi4KFSCMz.png)
+
 
 ## 👨‍💻 About Me
 
@@ -7,8 +9,7 @@ I focus on continuous learning, self-improvement, and adding value through my pr
 
 ##
 
-I am currently focusing on React.
-I am working to improve my proficiency in React by developing projects and learning modern frontend development practices. My goal is to continuously improve myself through practical experience.
+I am currently focusing on Python. I am working to improve my proficiency in advanced Python by developing projects and learning modern programming practices. My goal is to continuously improve myself through practical experience.
 
 🔗 &nbsp;**Connect with me :**
 
@@ -22,7 +23,7 @@ I am working to improve my proficiency in React by developing projects and learn
 
 ## ⚡ Technologies I Know
 
-- **Programming Languages:** C, C++, Java (OOP), PHP, JavaScript, TypeScript (basic)
+- **Programming Languages:** C, C++, Java (OOP), PHP, JavaScript, TypeScript (basic), Python (advanced learning), C# (beginner)
 - **Database:** SQL (primarily MSSQL)
 - **Web Technologies:** HTML5, CSS3, React
 - **Tools & Workflows:** Git, GitHub, VS Code
@@ -36,7 +37,3 @@ To continue learning new technologies, contributing to the software ecosystem, a
 producing **user-focused, sustainable projects**.
 
 ---
-
-## 📊 My GitHub Statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesdolgun33&layout=compact&theme=radical)
