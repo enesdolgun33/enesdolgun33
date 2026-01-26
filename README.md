@@ -1,6 +1,6 @@
 ## <h1><a href="https://github.com/enesdolgun33"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>Hi, I'm Enes Dolgun <a href="https://github.com/enesdolgun33"><img src="https://em-content.zobj.net/source/apple/391/laptop_1f4bb.png" width="25" height="25"></a> </h1>
-![Enes Dolgun](https://r.resimlink.com/Gdi4KFSCMz.png)
 
+![Enes Dolgun](images/github.png)
 
 ## 👨‍💻 About Me
 
